@@ -10,10 +10,10 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Company website for by Mafty
-author: Matthew Tsang Mang Kin
-  name: Matthew Tsang Mang Kin
-  email: matt.tmk@icloud.com
+description: "Company website for by Mafty"
+author: "Matthew Tsang Mang Kin"
+  name: "Matthew Tsang Mang Kin"
+  email: "matt.tmk@icloud.com"
   twitter: 
 social:
   name: by Mafty Template
