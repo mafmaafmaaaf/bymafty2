@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: by Mafty Co.
+title: "by Mafty Co"
 url: "https://github.com/mafmaafmaaaf/bymafty2"
 baseurl:
-google_analytics_key: UA-117752099-1
+google_analytics_key: "UA-117752099-1"
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -16,7 +16,7 @@ author: "Matthew Tsang Mang Kin"
   email: "matt.tmk@icloud.com"
   twitter: 
 social:
-  name: by Mafty Template
+  name: "by Mafty Template"
   links:
 
 # -----
