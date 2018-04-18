@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: by Mafty Co.
+url: "https://github.com/mafmaafmaaaf/bymafty2"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +10,19 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
+description: Company website for by Mafty
+author: Matthew Tsang Mang Kin
   name:
-  email:
-  twitter: # twitter username without the @ symbol
+  email: matt.tmk@icloud.com
+  twitter: 
 social:
-  name: Hydra Template
+  name: by Mafty Template
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: CST
 
 collections:
   staff_members:
@@ -91,14 +90,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
 
 _comments:
   map: Update the map location and display settings.
