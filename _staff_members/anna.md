@@ -1,6 +1,6 @@
 ---
 name: Matthew Tsang Mang Kin
-position: Founder
+position: Marketing
 image_path: /Super Hansome .jpg
 twitter: matt.tmk@icloud.com
 blurb: >-
