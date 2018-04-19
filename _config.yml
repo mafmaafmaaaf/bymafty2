@@ -2,21 +2,21 @@
 # Site
 
 title: by Mafty
-url: "https://github.com/mafmaafmaaaf/bymafty2"
+url: "bymafty.co"
 baseurl:
-google_analytics_key: "UA-117752099-1"
+google_analytics_key: UA-117752099-1
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "Company website for by Mafty"
-author: "Matthew Tsang Mang Kin"
-  name: "Matthew Tsang Mang Kin"
+description: Marketing in China
+author: 
+  name: 
   email: "matt.tmk@icloud.com"
-  twitter: 
+  twitter: # twitter username without the @ symbol
 social:
-  name: "by Mafty Template"
+  name: by Mafty
   links:
 
 # -----
@@ -92,6 +92,7 @@ social_icons:
   - Facebook
   - Instagram
   - LinkedIn
+
 
 _comments:
   map: Update the map location and display settings.
