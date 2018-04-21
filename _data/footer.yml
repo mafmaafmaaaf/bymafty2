@@ -8,7 +8,7 @@
     - name: Contact
       link: /contact/
 - links:
-    - name: Login
+    - name: 
       link: /
       new_window: false
 - links:
@@ -19,4 +19,4 @@
     - name: LinkedIn
       link: 'https://www.linkedin.com/in/matthew-tsang-mang-kin/'
       social_icon: LinkedIn
-      new_window: false
+      new_window: true
